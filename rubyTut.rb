@@ -19,6 +19,14 @@ greetMe('good afternoon');
 
 # The only difference between puts and print is that puts automatically prints a new line after the end of a sentence whereas print doesn't.
 
+# I am a single line comment in ruby 
+
+=begin 
+ I 
+ am a 
+ multiline cmt in ruby
+=end
+ 
 # ============= Strings And its Methods =====================
 str =  "I am a string"
 
